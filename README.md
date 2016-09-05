@@ -8,11 +8,11 @@ PCRE2 (Perl-compatible regular expression library) allows using regular expressi
 It is 'a re-working of the original PCRE library to provide an entirely new API'
 
 See the library documentation to more info. The docs are generated when the package is installed
-(look for '<package install dir>/share/doc'). Also they should be available at the [library site](http://www.pcre.org/).
+(look for '{package install dir}/share/doc'). Also they should be available at the [library site](http://www.pcre.org/).
 
 
 ## License
 
 This conan package is distributed under the [unlicense](http://unlicense.org/) terms (see LICENSE.md).
 
-Current pcre2 version is distributed under BSD license. See their 'LICENCE' file to details.
+Current pcre2 version is distributed under BSD license. See its 'LICENCE' file to details.
